@@ -8,3 +8,19 @@ body,
 html {
   height: 100%;
 }
+
+.info.legend {
+  background-color: white;
+  padding: 10px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  font-size: 14px;
+  opacity: 0.9;
+}
+
+.info.legend i {
+  width: 20px; /* Adjust the width of the colored boxes */
+  height: 20px; /* Adjust the height of the colored boxes */
+  display: inline-block;
+  margin-right: 5px;
+}
