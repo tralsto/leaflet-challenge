@@ -13,3 +13,7 @@
 - Include popups that provide additional information about the earthquake when its associated marker is clicked.
 
 - Create a legend that will provide context for your map data.
+
+
+## The resulting map is shown below:
+  ![leaflet-challenge-mapresult](https://github.com/tralsto/leaflet-challenge/assets/133471238/86b1c849-2f2c-4d97-98c1-e9313b0008e9)
