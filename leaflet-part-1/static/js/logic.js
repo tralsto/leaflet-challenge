@@ -71,7 +71,7 @@ d3.json(eqData).then(function(data) {
             radius: circleSize(magnitude),
             color: circleColor(depth),
             fillOpacity: 0.7
-        }).bindPopup(`Location: ${location}<br>Place: ${place}<br>Magnitude: ${magnitude}<br>Depth: ${depth}`);
+        }).bindPopup(`<strong>Location:</strong> ${location}<br><strong>Location Name:</strong> ${place}<br><strong>Magnitude:</strong> ${magnitude}<br><strong>Depth:</strong> ${depth}`);
 
         eqLayer.addLayer(circleMarker);
     });
