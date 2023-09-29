@@ -15,5 +15,5 @@
 - Create a legend that will provide context for your map data.
 
 
-## The resulting map is shown below:
-  ![M2.5+ Earthquake from the Previous 7 Days:](https://github.com/tralsto/leaflet-challenge/assets/133471238/86b1c849-2f2c-4d97-98c1-e9313b0008e9)
+## The resulting map is shown below showcasing M2.5+ Earthquakes from the Previous 7 Days:
+![leaflet-challenge-mapresult](https://github.com/tralsto/leaflet-challenge/assets/133471238/d7e26daf-191a-4d37-b490-2c7e5a3917b1)
